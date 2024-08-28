@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "dd41abed-19bf-4887-ad5d-208ffbc68c0d",
+      "text": "react öğren",
+      "is_done": true,
+      "created_at": "24.08.2024"
+    },
+    {
+      "id": "d232a96a-5af4-4be4-a2e3-f88960bda59c",
+      "text": "redux projesi yapıldı",
+      "is_done": true,
+      "created_at": "24.08.2024"
+    }
+  ]
+}
